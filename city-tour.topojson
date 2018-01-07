@@ -5,7 +5,7 @@
  "geometry": { 
               "type": "Point", 
               "coordinates": [286.9484771, -36.8276527]},
-              "properties": {"lugar": "Concepción", "temporada": "2012", "temporada": "2012", "url referencia": "<a href:http://www.youtube.com/watch?v=AuqzLG-a8w8> Capitulo xx Temporada 2016 </a>"} },
+              "properties": {"lugar": "Concepción", "temporada": "2012", "temporada": "2012", "url referencia": "<a href:www.youtube.com/watch?v=AuqzLG-a8w8> Capitulo xx Temporada 2016 </a>"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3299505, -33.4456352]},"properties": {"name": "Forastero", "direccion": "Ricardo Cumming 54, Santiago"} }
   ]  
 }
