@@ -1,12 +1,12 @@
 { "type": "FeatureCollection",
 "features": [
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3647419, -33.44148770]},"properties": {"name": "Original Green Roasters", "direccion": "Rancagua 040, Providencia"} },
+{"type": "Feature", 
+ "geometry": { 
+              "type": "Point", 
+              "coordinates": [286.9484771, -36.8276527]},
+              "properties": {"lugar": "Concepción", "temporada": "2012", "temporada": "2012", "url referencia": "https://www.youtube.com/watch?v=AuqzLG-a8w8"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3085408, -33.438615]},"properties": {"name": "Hotel Casa Zañartu", "direccion": "Compañía de Jesús 1520, Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3464552, -33.4407103]},"properties": {"name": "Cafetería London Coffee", "direccion": "Galería Crillón, Agustinas 1035"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3530237, -33.4356916]},"properties": {"name": "Hotel Altiplanico Bellas Artes", "direccion": "Santo Domingo 526, Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3958161, -33.4145424]},"properties": {"name": "Milk Coffee Bar", "direccion": "El Bosque Nte 220, Las Condes"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3678961, -33.4405388]},"properties": {"name": "Nunna Coffee", "direccion": "Seminario 94, Providencia"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3299505, -33.4456352]},"properties": {"name": "Forastero", "direccion": "Ricardo Cumming 54, Santiago"} }
   ]  
 }
